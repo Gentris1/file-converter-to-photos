@@ -140,8 +140,8 @@ def fix_timestamps(folder_path):
 
 
 # Пример использования
-target_folder = "C:/Users/yurar/PycharmProjects/pythonProject/my_secret_files"
-fix_timestamps(target_folder)
+target_folder = "my_secret_files"
+#fix_timestamps(target_folder)
 print("Обработка завершена")
 
 # Пример использования (раскомментируйте, если нужно):
